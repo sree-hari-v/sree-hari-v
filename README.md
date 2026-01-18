@@ -9,13 +9,13 @@
   <a href="https://github.com/sree-hari-v">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/sreehari-v-a15084321/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sreehari.vengalil@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/your-resume-link-here">
+  <a href="https://drive.google.com/file/d/1w8E-r8XxmIiJCkBEzTM8JhvzmqJ5zwo-/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   </a>
 
