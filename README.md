@@ -1,103 +1,105 @@
-<!-- MODERN ANIMATED BANNER -->
+<h1 align="center">Sreehari V</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Sreehari%20V&fontSize=44&fontAlignY=50&animation=fadeIn" />
+  Software Developer • Full Stack Developer • Web Developer
 </p>
 
-<h3 align="center">
-  Software Developer • Python • Java • Web Development
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real-World+Software;Python+%7C+Java+Developer;React+%7C+Next.js+Web+Apps;Open+to+Opportunities&center=true&width=600&height=42">
+  <sub>
+    Actively seeking entry-level opportunities in software and web development
+  </sub>
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 About
 
-I’m a **Computer Science student** focused on **software and web development**, with strong foundations in **Python, Java, and modern JavaScript frameworks**.  
-I enjoy building clean, scalable applications and continuously improving my development skills through hands-on projects.
+I am a **Computer Science undergraduate** with a strong interest in **software engineering and full stack web development**.  
+I enjoy building structured, maintainable applications and continuously improving my skills through hands-on projects and real-world problem solving.
 
-🎯 **Currently seeking entry-level software developer roles & internships**
+I am currently looking for **entry-level roles or internships** where I can contribute, learn, and grow as a developer.
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Core Roles
 
-### Languages
+- Software Developer  
+- Full Stack Developer  
+- Web Developer  
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python" height="28"/> Python <br/>
+  <img src="https://skillicons.dev/icons?i=java" height="28"/> Java <br/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="28"/> C++ <br/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="28"/> JavaScript
 </p>
 
-### Frameworks & Libraries
+### Web Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html" height="28"/> HTML5 <br/>
+  <img src="https://skillicons.dev/icons?i=css" height="28"/> CSS3 <br/>
+  <img src="https://skillicons.dev/icons?i=react" height="28"/> React.js <br/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="28"/> Next.js <br/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="28"/> Tailwind CSS
 </p>
 
-### Databases & Tools
+### Backend, Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,git,github,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="28"/> Node.js <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="28"/> MongoDB <br/>
+  <img src="https://skillicons.dev/icons?i=supabase" height="28"/> Supabase <br/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="28"/> Firebase <br/>
+  <img src="https://skillicons.dev/icons?i=git" height="28"/> Git <br/>
+  <img src="https://skillicons.dev/icons?i=github" height="28"/> GitHub
 </p>
 
 ---
 
-## 📦 Projects (All Repositories)
+## 📦 Projects
 
-> A live view of my GitHub repositories with **name & description**
+### EduNex
+Educational web platform built with **Next.js** and **Supabase**, focusing on secure authentication and structured data management.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sree-hari-v&repo=EduNex&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sree-hari-v&repo=Project-Hub&theme=transparent" />
-</p>
+### Project Hub
+A centralized platform to manage and showcase multiple projects with a clean, responsive user interface.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sree-hari-v&repo=Event-Hub&theme=transparent" />
-</p>
+### Event Hub
+A web application designed to organize and display events with a focus on usability and cross-device compatibility.
 
-➡️ **View all projects here:**  
-👉 https://github.com/sree-hari-v?tab=repositories
-
----
-
-## 🧠 Languages Used (Overall)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree-hari-v&layout=compact&theme=transparent&hide_border=true" />
-</p>
+➡️ View all repositories:  
+https://github.com/sree-hari-v?tab=repositories
 
 ---
 
 ## 📄 Resume & Contact
 
-<p align="center">
+<p>
   <a href="https://drive.google.com/your-resume-link-here" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-2563eb?style=for-the-badge&logo=googledrive&logoColor=white">
+    📄 Download Resume
   </a>
-  &nbsp;&nbsp;
+</p>
+
+<p>
   <a href="mailto:sreehari.vengalil@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white">
+    📧 Email: sreehari.vengalil@gmail.com
   </a>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Professional Links
 
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/sree-hari-v" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+- LinkedIn: https://www.linkedin.com/  
+- GitHub: https://github.com/sree-hari-v  
 
-<p align="center">
-  <sub>Let’s build something meaningful 🚀</sub>
-</p>
+---
 
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer" />
-</p>
+<sub>
+This profile highlights my development work and technical growth.  
+I’m open to collaboration, learning opportunities, and professional discussions.
+</sub>
