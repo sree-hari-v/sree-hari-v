@@ -1,11 +1,13 @@
+<h1 align="center">Hi, I'm Sreehari V <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F44336&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Developer;Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
+
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sreehari+V+👋;Software+Developer;Full+Stack+Developer;Web+Developer" alt="Typing SVG" />
-  
-  <br/>
-
   <a href="https://github.com/sree-hari-v">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -13,75 +15,95 @@
   <a href="mailto:sreehari.vengalil@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
+
 </div>
 
 <br/>
 
 ---
 
-### 👨‍💻 About Me
+### 🔴 About Me
 
-I am a **Computer Science undergraduate** with a passion for building structured, maintainable applications. My focus is on **software engineering** and **full-stack web development**. I love solving real-world problems through code and am always eager to learn new technologies.
+I am a **Computer Science undergraduate** driven by the challenge of building scalable software. My expertise lies in **Full Stack Development**, where I enjoy connecting elegant front-ends with robust back-end architecture.
 
-> 🚀 **Current Status:** Actively seeking **entry-level opportunities** or **internships** to contribute and grow as a developer.
+I focus on writing **clean, maintainable code** and am currently expanding my knowledge in **Cloud Computing** and **System Design**.
+
+> 🎯 **Goal:** Seeking entry-level roles where I can deploy my skills in Python, React, and Database Management to solve real business problems.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Arsenal
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase,firebase,git,github&theme=dark" />
-
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+        <br>Supabase
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Language Proficiency
 
 <div align="center">
   <a href="https://github.com/sree-hari-v">
-  <img src="https://github-readme-stats.vercel.app/api?username=sree-hari-v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sreehari's GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/sree-hari-v">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree-hari-v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree-hari-v&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" alt="Top Languages" />
   </a>
 </div>
 
 ---
 
-### 📦 Key Projects
+### 🚀 Featured Projects
 
-| 📂 Project | 📝 Description | 🛠️ Tech |
-| :--- | :--- | :--- |
-| **EduNex** | Educational web platform focusing on secure auth & structured data. | `Next.js` `Supabase` |
-| **Project Hub** | A centralized platform to showcase multiple projects with a clean UI. | `React` `CSS` |
-| **Event Hub** | Web app designed to organize events with cross-device compatibility. | `JS` `HTML5` |
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **EduNex** | 🎓 **Educational Platform**<br>A secure platform for student data management and learning resources. Features robust auth and role-based access. | <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" /> | [Code](#) |
+| **Project Hub** | 📂 **Portfolio Manager**<br>A centralized dashboard to showcase development projects. Includes filtering, detailed views, and responsive design. | <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /> | [Code](#) |
+| **Event Hub** | 📅 **Event Organizer**<br>Interactive web app for scheduling and managing college events. optimized for mobile and desktop views. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> | [Code](#) |
 
-<p align="right">
+<br/>
+
+<div align="center">
   <a href="https://github.com/sree-hari-v?tab=repositories">
-    <b>Explore all repositories ➡️</b>
+    <img src="https://img.shields.io/badge/View_All_Projects-FF0000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
 <div align="center">
   
   <a href="https://drive.google.com/your-resume-link-here">
-    <img src="https://img.shields.io/badge/📄_Download_Resume-4CAF50?style=for-the-badge&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/📄_Download_Resume-000000?style=for-the-badge&logoColor=white" alt="Resume" />
   </a>
 
   <br/><br/>
   
-  <sub>
-    <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-  </sub>
-  
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&customColorList=000000,FF0000,000000" />
+  </p>
 </div>
