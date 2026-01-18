@@ -24,11 +24,11 @@
 
 ### 🔴 About Me
 
-I am a **Computer Science undergraduate** driven by the challenge of building scalable software. My expertise lies in **Full Stack Development**, where I enjoy connecting elegant front-ends with robust back-end architecture.
+I am a passionate **Computer Science undergraduate** dedicated to engineering robust, scalable software solutions. My journey involves a deep dive into **Full Stack Development**, where I thrive on architecting seamless user experiences backed by powerful server-side logic.
 
-I focus on writing **clean, maintainable code** and am currently expanding my knowledge in **Cloud Computing** and **System Design**.
+Beyond just coding, I focus on **Data Structures & Algorithms** and **System Design**, ensuring that the applications I build are not just functional but also optimized and maintainable. I enjoy deconstructing complex problems and turning them into clean, efficient code.
 
-> 🎯 **Goal:** Seeking entry-level roles where I can deploy my skills in Python, React, and Database Management to solve real business problems.
+> 🎯 **Goal:** I am currently eager to launch my professional career, looking for **internships or entry-level roles** where I can bring my technical expertise in **Python, Java, and Modern Web Technologies** to a dynamic team to solve real business problems.
 
 ---
 
@@ -46,6 +46,28 @@ I focus on writing **clean, maintainable code** and am currently expanding my kn
         <br>Java
       </td>
       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+        <br>CSS3
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+        <br>SQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
         <br>React
       </td>
@@ -56,6 +78,18 @@ I focus on writing **clean, maintainable code** and am currently expanding my kn
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
         <br>Node.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
