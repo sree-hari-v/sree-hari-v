@@ -15,6 +15,9 @@
   <a href="mailto:sreehari.vengalil@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://drive.google.com/your-resume-link-here">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  </a>
 
 </div>
 
@@ -130,12 +133,6 @@ Beyond just coding, I focus on **Data Structures & Algorithms** and **System Des
 ---
 
 <div align="center">
-  
-  <a href="https://drive.google.com/your-resume-link-here">
-    <img src="https://img.shields.io/badge/📄_Download_Resume-000000?style=for-the-badge&logoColor=white" alt="Resume" />
-  </a>
-
-  <br/><br/>
   
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&customColorList=000000,FF0000,000000" />
