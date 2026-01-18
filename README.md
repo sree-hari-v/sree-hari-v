@@ -1,85 +1,82 @@
-<!-- ANIMATED BANNER -->
+<!-- MODERN ANIMATED BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Sreehari%20V&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Sreehari%20V&fontSize=44&fontAlignY=50&animation=fadeIn" />
 </p>
 
-<h3 align="center">Software Developer | Python | Java | Web Development</h3>
+<h3 align="center">
+  Software Developer • Python • Java • Web Development
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Java+Programmer;React.js+%7C+Next.js;Web+%26+Software+Development;Actively+Seeking+Opportunities&center=true&width=560&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real-World+Software;Python+%7C+Java+Developer;React+%7C+Next.js+Web+Apps;Open+to+Opportunities&center=true&width=600&height=42">
 </p>
 
 ---
 
-## 📄 Resume
+## 👋 About Me
+
+I’m a **Computer Science student** focused on **software and web development**, with strong foundations in **Python, Java, and modern JavaScript frameworks**.  
+I enjoy building clean, scalable applications and continuously improving my development skills through hands-on projects.
+
+🎯 **Currently seeking entry-level software developer roles & internships**
+
+---
+
+## 🧩 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,git,github,linux,vscode,postman" />
+</p>
+
+---
+
+## 📦 Projects (All Repositories)
+
+> A live view of my GitHub repositories with **name & description**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sree-hari-v&repo=EduNex&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sree-hari-v&repo=Project-Hub&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sree-hari-v&repo=Event-Hub&theme=transparent" />
+</p>
+
+➡️ **View all projects here:**  
+👉 https://github.com/sree-hari-v?tab=repositories
+
+---
+
+## 🧠 Languages Used (Overall)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree-hari-v&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 📄 Resume & Contact
 
 <p align="center">
   <a href="https://drive.google.com/your-resume-link-here" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Download%20Resume-2563eb?style=for-the-badge&logo=googledrive&logoColor=white">
   </a>
-</p>
-
----
-
-## 🚀 About Me
-
-🎓 **B.Sc Computer Science Student**  
-🏫 Nilgiri College of Arts & Science, Thaloor  
-💻 Focused on **Python, Java, and modern Web Development**  
-🔎 Actively seeking **entry-level software developer roles**
-
-I enjoy building scalable applications, writing clean code, and learning new technologies through real-world projects.
-
----
-
-## 🛠️ Technical Skills
-
-### 👨‍💻 Languages
-- Python  
-- Java  
-- C++  
-- JavaScript  
-
-### 🌐 Web Development
-- HTML5  
-- CSS3  
-- React.js  
-- Next.js  
-- Tailwind CSS  
-
-### 🔧 Backend & Databases
-- Node.js  
-- MongoDB  
-- Supabase  
-- Firebase  
-
-### 🧰 Tools
-- Git & GitHub  
-- Postman  
-- Linux  
-- VS Code, PyCharm  
-
----
-
-## 📌 Projects
-
-🔹 **EduNex** – Next.js + Supabase educational platform  
-🔹 **Project Hub** – Centralized project showcase platform  
-🔹 **Event Hub** – Event management web application  
-
-👉 Check my repositories below 👇
-
----
-
-## 📊 GitHub Stats (Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sree-hari-v&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sree-hari-v&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sree-hari-v&theme=tokyo-night" />
+  &nbsp;&nbsp;
+  <a href="mailto:sreehari.vengalil@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -88,15 +85,19 @@ I enjoy building scalable applications, writing clean code, and learning new tec
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/sree-hari-v" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
+  <sub>Let’s build something meaningful 🚀</sub>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer" />
 </p>
