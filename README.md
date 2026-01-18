@@ -18,6 +18,9 @@
   <a href="https://drive.google.com/file/d/1w8E-r8XxmIiJCkBEzTM8JhvzmqJ5zwo-/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   </a>
+  <a href="https://sreehari-v-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
 </div>
 
