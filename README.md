@@ -5,7 +5,6 @@
 </div>
 
 <div align="center">
-  
   <a href="https://github.com/sree-hari-v">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -21,7 +20,6 @@
   <a href="https://sree-hari-v.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
 </div>
 
 <br/>
@@ -110,10 +108,16 @@ Beyond just coding, I focus on **Data Structures & Algorithms** and **System Des
 ### 📊 Language Proficiency
 
 <div align="center">
-  <a href="https://github.com/sree-hari-v">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree-hari-v&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" alt="Top Languages" />
-  </a>
+  <!-- Fixed Top Languages card (added cache_seconds to reduce rate-limit issues) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree-hari-v&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </div>
+
+<!-- If the above still fails sometimes, replace the src with this maintained fork:
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sree-hari-v&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&cache_seconds=86400
+-->
 
 ---
 
@@ -136,7 +140,6 @@ Beyond just coding, I focus on **Data Structures & Algorithms** and **System Des
 ---
 
 <div align="center">
-  
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&customColorList=000000,FF0000,000000" />
   </p>
