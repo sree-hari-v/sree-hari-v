@@ -1,7 +1,13 @@
-<h1 align="center">Hi, I'm Sreehari V <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Sreehari V
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F44336&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Developer;Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F44336&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Developer;Web+Developer;Open+Source+Enthusiast"
+    alt="Typing SVG"
+  />
 </div>
 
 <div align="center">
@@ -43,61 +49,61 @@ Beyond just coding, I focus on **Data Structures & Algorithms** and **System Des
     <tr>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
+        <br/>Python
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br>Java
+        <br/>Java
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-        <br>C++
+        <br/>C++
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
+        <br/>JavaScript
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
+        <br/>HTML5
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-        <br>CSS3
+        <br/>CSS3
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>SQL
+        <br/>SQL
       </td>
     </tr>
     <tr>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
+        <br/>React
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-        <br>Next.js
+        <br/>Next.js
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
+        <br/>Node.js
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br>Tailwind
+        <br/>Tailwind
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
+        <br/>MongoDB
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
+        <br/>Git
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-        <br>Supabase
+        <br/>Supabase
       </td>
     </tr>
   </table>
@@ -105,29 +111,14 @@ Beyond just coding, I focus on **Data Structures & Algorithms** and **System Des
 
 ---
 
-### 📊 Language Proficiency
-
-<div align="center">
-  <!-- Fixed Top Languages card (added cache_seconds to reduce rate-limit issues) -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree-hari-v&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&cache_seconds=86400"
-    alt="Top Languages"
-  />
-</div>
-
-<!-- If the above still fails sometimes, replace the src with this maintained fork:
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sree-hari-v&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&cache_seconds=86400
--->
-
----
 
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **EduNex** | 🎓 **Educational Platform**<br>A secure platform for student data management and learning resources. Features robust auth and role-based access. | <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" /> | [Code](#) |
-| **Project Hub** | 📂 **Portfolio Manager**<br>A centralized dashboard to showcase development projects. Includes filtering, detailed views, and responsive design. | <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /> | [Code](#) |
-| **Event Hub** | 📅 **Event Organizer**<br>Interactive web app for scheduling and managing college events. optimized for mobile and desktop views. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> | [Code](#) |
+| **EduNex** | 🎓 **Educational Platform**<br/>A secure platform for student data management and learning resources. Features robust auth and role-based access. | <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" /> | [Code](#) |
+| **Project Hub** | 📂 **Portfolio Manager**<br/>A centralized dashboard to showcase development projects. Includes filtering, detailed views, and responsive design. | <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /> | [Code](#) |
+| **Event Hub** | 📅 **Event Organizer**<br/>Interactive web app for scheduling and managing college events. optimized for mobile and desktop views. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> | [Code](#) |
 
 <br/>
 
